@@ -1,31 +1,45 @@
-## Hi there 👋
-I'm Sanuri Sathsari, software Engineering undergraduate passionate about full-stack and mobile development. I enjoy building real-world projects and continuously improving my skills.
+# Hi there 👋 I'm Sanuri Sathsari
 
-🚀 About Me
-🎓 Software Engineering Undergraduate
-💻 Passionate about Web, Full-Stack & Mobile Development
-🌱 Always learning and exploring new technologies
-🔨 Love building real-world, practical projects
+Software Engineering undergraduate passionate about **full-stack and mobile development**.  
+I enjoy building real-world applications, solving problems, and continuously improving my skills.
 
-🛠️ Skills
-💡 Programming Languages
-Java | PHP | JavaScript | C++ (Arduino) | SQL | C#
+---
 
-⚙️ Frameworks & Technologies
-HTML5 | CSS3 | Spring Boot | React | Android (Java)
+## 🚀 About Me
 
-🗄️ Databases
-Oracle | MySQL | SQLite | Firebase
+- 🎓 Software Engineering Undergraduate  
+- 💻 Full-Stack & Mobile Developer  
+- 🌱 Always learning new technologies  
+- 🔨 Passionate about building real-world, impactful projects  
+- 🎯 Focused on writing clean and maintainable code  
 
-🧰 Tools & Development Environments
-VS Code | Git | GitHub | Arduino IDE | Postman | REST APIs
+---
 
-📚 Concepts & Other Skills
-OOP | Data Structures & Algorithms (Basic) | Version Control
-Responsive Web Design | Debugging & Troubleshooting
+## 🛠️ Tech Stack
 
-📫 Contact Me
-📧 Email: sathsarisanuri@gmail.com
-🐙 GitHub: https://github.com/SanuriSathsari03
+### 💡 Programming Languages
+Java | JavaScript | PHP | C++ (Arduino) | C# | SQL  
+
+### 🌐 Web & Mobile Development
+HTML5 | CSS3 | React | Spring Boot | Android (Java)  
+
+### 🗄️ Databases
+MySQL | Oracle | SQLite | Firebase  
+
+### 🧰 Tools & Platforms
+VS Code | Git | GitHub | Postman | Arduino IDE | REST APIs  
+
+### 📚 Core Concepts
+OOP | Data Structures & Algorithms (Basic) | Version Control  
+Responsive Web Design | Debugging & Troubleshooting  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: sathsarisanuri@gmail.com  
+- 🐙 GitHub: https://github.com/SanuriSathsari03  
+
+---
 
 ⭐ Thanks for visiting my profile!
