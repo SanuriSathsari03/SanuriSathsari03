@@ -38,11 +38,4 @@ Responsive Web Design | Debugging & Troubleshooting
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: sathsarisanuri@gmail.com  
-- 🐙 GitHub: https://github.com/SanuriSathsari03   
-
----
-
 ⭐ Thanks for visiting my profile!
